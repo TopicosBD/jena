@@ -1,63 +1,63 @@
 <rdf:RDF
     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
-  <rdf:Description rdf:about="http://tebdjena/Zachary S. Wilcox">
-    <vcard:JOB>Desenhista técnico </vcard:JOB>
+  <rdf:Description rdf:about="http://tebdjena/ZacharyS.Wilcox">
+    <vcard:JOB>Desenhista técnico</vcard:JOB>
     <vcard:FN>Zachary S. Wilcox</vcard:FN>
   </rdf:Description>
-  <rdf:Description rdf:about="http://tebdjena/Abdul P. Ramsey">
+  <rdf:Description rdf:about="http://tebdjena/AbdulP.Ramsey">
     <vcard:JOB>Apontador de mão-de-obra</vcard:JOB>
     <vcard:FN>Abdul P. Ramsey</vcard:FN>
   </rdf:Description>
-  <rdf:Description rdf:about="http://tebdjena/Aurora A. Mack">
+  <rdf:Description rdf:about="http://tebdjena/AuroraA.Mack">
     <vcard:JOB>Antropólogo</vcard:JOB>
     <vcard:FN>Aurora A. Mack</vcard:FN>
   </rdf:Description>
-  <rdf:Description rdf:about="http://tebdjena/Hamish Q. Johnson">
-    <vcard:JOB>Bailarino </vcard:JOB>
+  <rdf:Description rdf:about="http://tebdjena/HamishQ.Johnson">
+    <vcard:JOB>Bailarino</vcard:JOB>
     <vcard:FN>Hamish Q. Johnson</vcard:FN>
   </rdf:Description>
-  <rdf:Description rdf:about="http://tebdjena/Leonard Z. Guerra">
+  <rdf:Description rdf:about="http://tebdjena/LeonardZ.Guerra">
     <vcard:JOB>Decorador de interiores de nível superior</vcard:JOB>
     <vcard:FN>Leonard Z. Guerra</vcard:FN>
   </rdf:Description>
-  <rdf:Description rdf:about="http://tebdjena/Violet C. Christian">
+  <rdf:Description rdf:about="http://tebdjena/VioletC.Christian">
     <vcard:JOB>Eletricista de instalações</vcard:JOB>
     <vcard:FN>Violet C. Christian</vcard:FN>
   </rdf:Description>
-  <rdf:Description rdf:about="http://tebdjena/Cruz S. Lang">
+  <rdf:Description rdf:about="http://tebdjena/CruzS.Lang">
     <vcard:JOB>Apontador de produção</vcard:JOB>
     <vcard:FN>Cruz S. Lang</vcard:FN>
   </rdf:Description>
-  <rdf:Description rdf:about="http://tebdjena/Haviva X. Bright">
+  <rdf:Description rdf:about="http://tebdjena/HavivaX.Bright">
     <vcard:JOB>Ajustador ferramenteiro</vcard:JOB>
     <vcard:FN>Haviva X. Bright</vcard:FN>
   </rdf:Description>
-  <rdf:Description rdf:about="http://tebdjena/Chandler G. Delacruz">
+  <rdf:Description rdf:about="http://tebdjena/ChandlerG.Delacruz">
     <vcard:JOB>Analista de suporte computacional</vcard:JOB>
     <vcard:FN>Chandler G. Delacruz</vcard:FN>
   </rdf:Description>
-  <rdf:Description rdf:about="http://tebdjena/Libby V. Huffman">
+  <rdf:Description rdf:about="http://tebdjena/LibbyV.Huffman">
     <vcard:JOB>Assistente de vendas</vcard:JOB>
     <vcard:FN>Libby V. Huffman</vcard:FN>
   </rdf:Description>
-  <rdf:Description rdf:about="http://tebdjena/Driscoll C. Morrow">
+  <rdf:Description rdf:about="http://tebdjena/DriscollC.Morrow">
     <vcard:JOB>Ajudante de despachante aduaneiro</vcard:JOB>
     <vcard:FN>Driscoll C. Morrow</vcard:FN>
   </rdf:Description>
-  <rdf:Description rdf:about="http://tebdjena/Cassady O. Fuller">
-    <vcard:JOB>Bilheteiro </vcard:JOB>
+  <rdf:Description rdf:about="http://tebdjena/CassadyO.Fuller">
+    <vcard:JOB>Bilheteiro</vcard:JOB>
     <vcard:FN>Cassady O. Fuller</vcard:FN>
   </rdf:Description>
-  <rdf:Description rdf:about="http://tebdjena/Calvin I. Arnold">
+  <rdf:Description rdf:about="http://tebdjena/CalvinI.Arnold">
     <vcard:JOB>Degustador de vinhos ou licores</vcard:JOB>
     <vcard:FN>Calvin I. Arnold</vcard:FN>
   </rdf:Description>
-  <rdf:Description rdf:about="http://tebdjena/Quamar Z. Wolfe">
+  <rdf:Description rdf:about="http://tebdjena/QuamarZ.Wolfe">
     <vcard:JOB>Educador social</vcard:JOB>
     <vcard:FN>Quamar Z. Wolfe</vcard:FN>
   </rdf:Description>
-  <rdf:Description rdf:about="http://tebdjena/Marvin A. England">
+  <rdf:Description rdf:about="http://tebdjena/MarvinA.England">
     <vcard:JOB>Agente indígena de saúde</vcard:JOB>
     <vcard:FN>Marvin A. England</vcard:FN>
   </rdf:Description>
