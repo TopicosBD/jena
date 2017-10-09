@@ -79,7 +79,7 @@ public class RDFGS extends Object {
         
         try {
             //Mudar URL se necessário
-            FileOutputStream fout = new FileOutputStream("C:\\Users\\thiag\\Desktop\\sistemaclinicardf.xml");
+            FileOutputStream fout = new FileOutputStream("C:\\Users\\thiag\\Desktop\\sistemaclinicardf.rdf");
             model.write(fout);
         } catch (IOException e) {
             System.out.println("Exception caught" + e.getMessage());
